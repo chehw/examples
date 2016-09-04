@@ -40,7 +40,7 @@
 #include <errno.h>
 
 #define PORT "8031"
-#define SERV_NAME "api.chehw.info"
+#define SERV_NAME "localhost"
 
 static int client_run();
 
